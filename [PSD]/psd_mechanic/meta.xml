@@ -1,0 +1,5 @@
+<meta>
+    <info author="devpl" type="script" version="0.1" name="PSD" />
+    <script src="c.lua" type="client" />
+    <script src="s.lua" type="server" />
+</meta>

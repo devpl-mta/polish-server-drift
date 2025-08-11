@@ -1,0 +1,5 @@
+addEvent("zakonczWyscig", true)
+addEventHandler("zakonczWyscig", root, function()
+    givePlayerMoney(source, 2000)
+    outputChatBox("#00ff00[WYŚCIG] #ffffffOtrzymałeś $2000 za ukończenie wyścigu!", source, 255, 255, 255, true)
+end)
