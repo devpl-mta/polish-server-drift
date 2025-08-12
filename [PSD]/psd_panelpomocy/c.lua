@@ -44,8 +44,8 @@ Miłej zabawy!]], false, tabStart)
 
     local tabAdmin = guiCreateTab("Administracja", zakladki)
     guiCreateLabel(10, 10, 500, 200, [[
-Główny Administrator: Dawid
-Moderatorzy: Kuba, Mati
+Główny Administrator: devpl
+Moderatorzy: niewiem
 
 Używaj /report jeśli ktoś łamie zasady.]] , false, tabAdmin)
 
@@ -60,3 +60,4 @@ v0.1:
 
     guiSetVisible(panelPomocy, true)
 end
+
